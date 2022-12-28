@@ -1,7 +1,7 @@
 {
   "name": "Calculadora-Com-React",
   "version": "0.1.0",
-  "homepage": "Calculadora-Com-React/",
+  "homepage":"Calculadora-Com-React/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
